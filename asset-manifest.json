@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Party/static/css/main.e6c13ad2.css",
+    "main.js": "/React-Party/static/js/main.b3ea5fe5.js",
+    "static/js/453.89c061c8.chunk.js": "/React-Party/static/js/453.89c061c8.chunk.js",
+    "index.html": "/React-Party/index.html",
+    "main.e6c13ad2.css.map": "/React-Party/static/css/main.e6c13ad2.css.map",
+    "main.b3ea5fe5.js.map": "/React-Party/static/js/main.b3ea5fe5.js.map",
+    "453.89c061c8.chunk.js.map": "/React-Party/static/js/453.89c061c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b3ea5fe5.js"
+  ]
+}
